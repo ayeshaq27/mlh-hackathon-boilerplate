@@ -38,7 +38,7 @@ event:
   name:        "SolutionHacks To"
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
   date:        "14-16 February 2024"
-  location:    "Holmdel, NJ, United States"
+  location:    "Toronto, ON Canada"
 
   trust_badge:
     year:   "2025"  # season year
